@@ -19,6 +19,6 @@ c.Javascript
 
 Vista previa:
 ---
-[Banderas-Display-p1]()
+[Banderas-Display-P2]( https://natalycortez.github.io/Banderas-Display-P2/.)
 
-![BDP1]()
+![BDP2](https://raw.githubusercontent.com/NatalyCortez/Banderas-Display-P2/master/assents/BanderaDisplay2.JPG)
