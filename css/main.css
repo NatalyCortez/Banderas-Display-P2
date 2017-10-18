@@ -1,0 +1,30 @@
+/*colocamos el selector universal"*" para aplicar los estilos que queremos que se visualize en toda la pagina"*/
+* {
+  /*con la propiedad"box-sizing" y el valor "border-box"indicamos que width y height incluyen el padding y el border, pero no el margin.Usar esta declaracion tambien nos brinda tener proporcionalidad con las medidas que usemos.*/
+  box-sizing: border-box;
+}
+/*Definimos los estilos a utilizar en los bloques del selector simple*/
+div {
+  /*Establecemos la altura de la caja*/
+  height: 150px;
+  /*Establecemos el ancho de la caja*/
+  width: 200px;
+  /*Establecemos la medida del margen de cada caja*/
+  margin: 10px;
+  /*Establecemos el espacio entre el contenido y el borde*/
+  padding: 10px;
+  /*Indicamos que queremos que el texto se alinie a la izquierda*/
+  text-align: left;
+}
+  /*Establecemos el estilo para el selector de clase "yellow"*/
+.yellow {
+  /*Indicamos el color de fondo a usar para la caja*/
+  background-color: #ffbb00;
+}
+  /*Establecemos el estilo para el selector de clase "black"*/
+.black {
+  /*Indicamos el color de fondo a usar para la caja*/
+  background-color: #2b2a27;
+  /*Indicamos el color del texto que usaremos en esta caja*/
+  color: white;
+}
